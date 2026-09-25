@@ -13,7 +13,7 @@ public class StudentList {
     public static void main(String[] args) { 
         Scanner scan = new Scanner(System.in);
         
-        System.out.println("This commit will properly test if we can see the line of commits through a merge rather than a pull request.");
+        System.out.println("This commit will properly test if we can see the line of commits through a merge rather than a pull request. Commit 2");
         
         Student s1 = new Student("Karin", 3, 85.0);
         Student s2 = new Student("Smith", 1, 100.0);
