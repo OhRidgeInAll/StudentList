@@ -38,6 +38,7 @@ public class StudentList {
         }
         if(studentFound == false){
             System.out.println("Student not found");
+            System.out.println("Test Update");
         }
     }
     
